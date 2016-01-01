@@ -240,7 +240,7 @@ visibility: hidden;
 }
 
 .icon-stop.icon-sm  {
-  content: url("https://jenkins.ludeknovy.com/userContent/cancel22.png") !important;
+  content: url("https://jenkins.ludeknovy.com/userContent/cancel2.png") !important;
 }
 
 .model-link.inside  {
@@ -264,39 +264,39 @@ visibility: hidden;
 }
 
 .icon-notepad.icon-md {
-  content: url("https://raw.githubusercontent.com/nvldk/jenkins-flat-theme/master/icons/history.png") !important;
+  content: url("https://cdn.rawgit.com/nvldk/jenkins-flat-theme/master/icons/history.png") !important;
 }
 
 .icon-user.icon-md {
-  content: url("https://jenkins.ludeknovy.com/userContent/user.png") !important;
+  content: url("https://cdn.rawgit.com/nvldk/jenkins-flat-theme/master/icons/user.png") !important;
 }
 
 .icon-new-package.icon-md {
-  content: url("https://jenkins.ludeknovy.com/userContent/package.png") !important;
+  content: url("https://cdn.rawgit.com/nvldk/jenkins-flat-theme/master/icons/package.png") !important;
 }
 
 .icon-gear.icon-md {
-  content: url("https://jenkins.ludeknovy.com/userContent/gear.png") !important;
+  content: url("https://cdn.rawgit.com/nvldk/jenkins-flat-theme/master/icons/gear.png") !important;
 }
 
 .icon-setting.icon-md {
-  content: url("https://jenkins.ludeknovy.com/userContent/settings.png") !important;
+  content: url("https://cdn.rawgit.com/nvldk/jenkins-flat-theme/master/icons/settings.png") !important;
 }
 
 .task-icon-link[href="/credential-store"] > img {
-  content: url("https://jenkins.ludeknovy.com/userContent/credentials.png") !important;
+  content: url("https://cdn.rawgit.com/nvldk/jenkins-flat-theme/master/icons/credentials.png") !important;
   height: 24px !important;
 }
 
 .icon-notepad.icon-sm {
-  content: url("https://jenkins.ludeknovy.com/userContent/notepad.png") !important;
+  content: url("https://cdn.rawgit.com/nvldk/jenkins-flat-theme/master/icons/notepad.png") !important;
 }
 
 .icon-help.icon-sm {
-  content: url("https://jenkins.ludeknovy.com/userContent/help.png") !important;
+  content: url("https://cdn.rawgit.com/nvldk/jenkins-flat-theme/master/icons/help.png") !important;
 }
 
 #search-box {
-  background: white url(https://jenkins.ludeknovy.com/userContent/search.png) no-repeat 2px center !important;
+  background: white url(https://cdn.rawgit.com/nvldk/jenkins-flat-theme/master/icons/search.png) no-repeat 2px center !important;
   height: 16px !important;
 }
