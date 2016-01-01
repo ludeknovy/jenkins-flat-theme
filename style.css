@@ -345,6 +345,10 @@ visibility: hidden;
 .icon-notepad.icon-sm {
   content: url("https://cdn.rawgit.com/nvldk/jenkins-flat-theme/master/icons/notepad.png") !important;
 }
+
+.icon-notepad.icon-xlg {
+  content: url("https://cdn.rawgit.com/nvldk/jenkins-flat-theme/master/icons/notepad.png") !important;
+}
 /*Help icon */
 .icon-help.icon-sm {
   content: url("https://cdn.rawgit.com/nvldk/jenkins-flat-theme/master/icons/help.png") !important;
@@ -374,7 +378,9 @@ visibility: hidden;
   content: url("https://cdn.rawgit.com/nvldk/jenkins-flat-theme/master/icons/folder.png") !important;
 }
 
-
+.icon-folder.icon-xlg {
+  content: url("https://cdn.rawgit.com/nvldk/jenkins-flat-theme/master/icons/folder.png") !important;
+}
 
 /*Search icon*/
 #search-box {
