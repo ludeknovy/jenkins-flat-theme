@@ -354,6 +354,10 @@ visibility: hidden;
   content: url("https://cdn.rawgit.com/nvldk/jenkins-flat-theme/master/icons/delete.png") !important;
 }
 
+.icon-collapse.icon-sm {
+  content: url("https://cdn.rawgit.com/nvldk/jenkins-flat-theme/master/icons/dash.png") !important;
+}
+
 /*Search icon*/
 #search-box {
   background: white url(https://cdn.rawgit.com/nvldk/jenkins-flat-theme/master/icons/search.png) no-repeat 2px center !important;
