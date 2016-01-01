@@ -202,7 +202,11 @@ float: left;
    /* Width adn height of new image */
 }
 
-td> a > img[title="Last/current build console output"] {
+#side-panel > div > div > a >.icon-clock.icon-md {
+  content: url("https://cdn.rawgit.com/nvldk/jenkins-flat-theme/master/icons/play.png") !important;
+}
+
+td > a > img[title="Last/current build console output"] {
   content: url("https://cdn.rawgit.com/nvldk/jenkins-flat-theme/master/icons/console.png") !important;
 }
 /*weather icons */
@@ -361,6 +365,8 @@ visibility: hidden;
 .icon-up.icon-md {
   content: url("https://cdn.rawgit.com/nvldk/jenkins-flat-theme/master/icons/arrowup.png") !important;
 }
+
+
 
 /*Search icon*/
 #search-box {
