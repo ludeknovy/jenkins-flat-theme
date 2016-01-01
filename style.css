@@ -264,7 +264,7 @@ visibility: hidden;
 }
 
 .icon-notepad.icon-md {
-  content: url("https://cdn.rawgit.com/nvldk/jenkins-flat-theme/tree/master/icons/history.png") !important;
+  content: url("https://raw.githubusercontent.com/nvldk/jenkins-flat-theme/master/icons/history.png") !important;
 }
 
 .icon-user.icon-md {
