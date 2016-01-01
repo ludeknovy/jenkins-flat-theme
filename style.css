@@ -305,7 +305,7 @@ visibility: hidden;
 }
 
 #side-panel .pane-frame:hover, #side-panel .pane-frame.mouseover {
-  border: solid 0px #cecece;
+  border: solid 1px #F1F1F1;
 }
 
 /* History icon*/
