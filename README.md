@@ -8,3 +8,5 @@ Installation:
 2. Go to Jenkins > Manage Jenkins > Configure System  
 3. Add this link: https://cdn.rawgit.com/nvldk/jenkins-flat-theme/master/style.css into "URL of theme CSS"  
 
+Known issue:  
+Doesn't work for Firefox but Safari and Chrome is ok.
