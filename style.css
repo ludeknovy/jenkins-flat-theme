@@ -200,7 +200,7 @@ td> a > img[title="Last/current build console output"] {
 }
 
 #projectstatus >tbody > tr> td> a > .icon-health-40to59.icon-lg  {
-  content: url("hhttps://cdn.rawgit.com/nvldk/jenkins-flat-theme/master/icons/cloudy.png") !important;
+  content: url("https://cdn.rawgit.com/nvldk/jenkins-flat-theme/master/icons/cloudy.png") !important;
 }
 
 #projectstatus >tbody > tr> td> a > .icon-health-20to39.icon-lg  {
