@@ -282,11 +282,11 @@ visibility: hidden;
 .tabBar > .tab > a {
   border: solid 0px !important;
   color: #585858 !important;
+  line-height: normal !important;
 }
 
 .tabBar > .tab > a:hover {
   line-height: normal !important;
-  color: #585858 !important;
   background-color: white !important;
   border-bottom: solid 2px rgb(0, 108, 251) !important;
 }
