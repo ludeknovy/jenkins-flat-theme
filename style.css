@@ -264,7 +264,7 @@ visibility: hidden;
 }
 
 .icon-notepad.icon-md {
-  content: url("https://jenkins.ludeknovy.com/userContent/history.png") !important;
+  content: url("https://cdn.rawgit.com/nvldk/jenkins-flat-theme/tree/master/icons/history.png") !important;
 }
 
 .icon-user.icon-md {
