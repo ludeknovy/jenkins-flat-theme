@@ -99,7 +99,7 @@ th.pane {
     font-weight: bold;
     font-size: 15px;
     background-color: white !important;
-    padding-top: 25px !important;
+    padding-top: 15px !important;
 }
 
 #projectstatus th a:hover {
@@ -282,6 +282,12 @@ visibility: hidden;
 .tabBar > .tab > a {
   border: solid 0px !important;
   color: #585858 !important;
+}
+
+tabBar > .tab > a:hover {
+  color: #585858 !important;
+  background-color: white !important;
+  border-bottom: solid 2px rgb(0, 108, 251) !important;
 }
 
 .tabBar > .active > a {
