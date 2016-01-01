@@ -304,6 +304,10 @@ visibility: hidden;
   color: #006CFB !important;
 }
 
+#side-panel .pane-frame:hover, #side-panel .pane-frame.mouseover {
+  border: solid 0px #cecece;
+}
+
 /* History icon*/
 .icon-notepad.icon-md {
   content: url("https://cdn.rawgit.com/nvldk/jenkins-flat-theme/master/icons/history.png") !important;
