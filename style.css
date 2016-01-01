@@ -257,7 +257,7 @@ visibility: hidden;
     padding: 1px 7px 4px 14px !important;
 }
 
-.bigtable > th {
+.header > th {
   background-color: white !important;
 }
 
