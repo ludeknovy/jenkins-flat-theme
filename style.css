@@ -99,7 +99,7 @@ th.pane {
     font-weight: bold;
     font-size: 15px;
     background-color: white !important;
-    padding-top: 15px !important;
+    padding-top: 8px !important;
 }
 
 #projectstatus th a:hover {
