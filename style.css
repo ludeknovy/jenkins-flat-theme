@@ -285,6 +285,7 @@ visibility: hidden;
 }
 
 .tabBar > .tab > a:hover {
+  line-height: normal !important;
   color: #585858 !important;
   background-color: white !important;
   border-bottom: solid 2px rgb(0, 108, 251) !important;
@@ -295,6 +296,7 @@ visibility: hidden;
   border-bottom: solid 2px #006CFB !important;
   line-height: normal !important;
   background: white !important;
+  color: rgb(181, 10, 210) !important;
 }
 
 .tabBar > .tab > .addTab {
