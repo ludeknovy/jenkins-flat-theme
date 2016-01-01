@@ -366,6 +366,10 @@ visibility: hidden;
   content: url("https://cdn.rawgit.com/nvldk/jenkins-flat-theme/master/icons/arrowup.png") !important;
 }
 
+.icon-folder.icon-md {
+  content: url("https://cdn.rawgit.com/nvldk/jenkins-flat-theme/master/icons/folder.png") !important;
+}
+
 
 
 /*Search icon*/
