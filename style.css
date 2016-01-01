@@ -164,6 +164,14 @@ td.progress-bar-left {
 	background-color: transparent !important;
 }
 
+#side-panel {
+  background: rgba(78, 78, 78, 0.08) !important;
+}
+
+#description-link {
+  font-size: 13px !important;
+}
+
 #main-panel-content > div:nth-child(2) {
 	background-color: transparent !important;
 }
@@ -184,19 +192,23 @@ float: left;
   color: #204A87 !important;
 }
 
-#projectstatus >tbody > tr> td> a > .icon-health-80plus.icon-lg {
-    content: url("https://cdn.rawgit.com/nvldk/jenkins-flat-theme/master/icons/sunny.png") !important;
-}
-
 #projectstatus >tbody > tr> td> a > .icon-clock.icon-md {
   content: url("https://cdn.rawgit.com/nvldk/jenkins-flat-theme/master/icons/play.png") !important;
   width: 20px !important;
   height: 20px !important;
-   /* Width of new image */
+   /* Width adn height of new image */
 }
 
 td> a > img[title="Last/current build console output"] {
   content: url("https://cdn.rawgit.com/nvldk/jenkins-flat-theme/master/icons/console.png") !important;
+}
+/*weather icons */
+#projectstatus >tbody > tr> td> a > .icon-health-80plus.icon-lg {
+    content: url("https://cdn.rawgit.com/nvldk/jenkins-flat-theme/master/icons/sunny.png") !important;
+}
+
+#projectstatus >tbody > tr> td> a > .icon-health-60to79.icon-lg {
+  content: url("https://cdn.rawgit.com/nvldk/jenkins-flat-theme/master/icons/partlysunny.png") !important;
 }
 
 #projectstatus >tbody > tr> td> a > .icon-health-40to59.icon-lg  {
@@ -209,10 +221,6 @@ td> a > img[title="Last/current build console output"] {
 
 #projectstatus >tbody > tr> td> a > .icon-health-00to19.icon-lg {
   content: url("https://cdn.rawgit.com/nvldk/jenkins-flat-theme/master/icons/thunder.png") !important;
-}
-
-#projectstatus >tbody > tr> td> a > .icon-health-60to79.icon-lg {
-  content: url("https://cdn.rawgit.com/nvldk/jenkins-flat-theme/master/icons/partlysunny.png") !important;
 }
 
 .dashboard>div>table>tbody>tr>td>div>span>a {
@@ -239,10 +247,6 @@ visibility: hidden;
   text-decoration: none !important;
 }
 
-.icon-stop.icon-sm  {
-  content: url("https://cdn.rawgit.com/nvldk/jenkins-flat-theme/master/icons/cancel22.png") !important;
-}
-
 .model-link.inside  {
   text-decoration: none !important;
 }
@@ -263,39 +267,49 @@ visibility: hidden;
   text-decoration: none !important;
 }
 
+.col-xs-24.pane-header {
+  background: rgba(197, 197, 197, 0.88) !important;
+}
+
+
+/* History icon*/
 .icon-notepad.icon-md {
   content: url("https://cdn.rawgit.com/nvldk/jenkins-flat-theme/master/icons/history.png") !important;
 }
-
+/*User icon */
 .icon-user.icon-md {
   content: url("https://cdn.rawgit.com/nvldk/jenkins-flat-theme/master/icons/user.png") !important;
 }
-
+/*New icon */
 .icon-new-package.icon-md {
   content: url("https://cdn.rawgit.com/nvldk/jenkins-flat-theme/master/icons/package.png") !important;
 }
-
+/*Edit view icon */
 .icon-gear.icon-md {
   content: url("https://cdn.rawgit.com/nvldk/jenkins-flat-theme/master/icons/gear.png") !important;
 }
-
+/*Jenkins settings icon */
 .icon-setting.icon-md {
   content: url("https://cdn.rawgit.com/nvldk/jenkins-flat-theme/master/icons/settings.png") !important;
 }
-
+/*Credentials icon */
 .task-icon-link[href="/credential-store"] > img {
   content: url("https://cdn.rawgit.com/nvldk/jenkins-flat-theme/master/icons/credentials.png") !important;
   height: 24px !important;
 }
-
+/*Notepad icon */
 .icon-notepad.icon-sm {
   content: url("https://cdn.rawgit.com/nvldk/jenkins-flat-theme/master/icons/notepad.png") !important;
 }
-
+/*Help icon */
 .icon-help.icon-sm {
   content: url("https://cdn.rawgit.com/nvldk/jenkins-flat-theme/master/icons/help.png") !important;
 }
-
+/*Cancel button */
+.icon-stop.icon-sm  {
+  content: url("https://cdn.rawgit.com/nvldk/jenkins-flat-theme/master/icons/cancel22.png") !important;
+}
+/*Search icon*/
 #search-box {
   background: white url(https://cdn.rawgit.com/nvldk/jenkins-flat-theme/master/icons/search.png) no-repeat 2px center !important;
   height: 16px !important;
