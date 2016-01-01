@@ -284,7 +284,7 @@ visibility: hidden;
   color: #585858 !important;
 }
 
-tabBar > .tab > a:hover {
+.tabBar > .tab > a:hover {
   color: #585858 !important;
   background-color: white !important;
   border-bottom: solid 2px rgb(0, 108, 251) !important;
