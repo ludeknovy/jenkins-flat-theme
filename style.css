@@ -98,6 +98,7 @@ th.pane {
     color: black;
     font-weight: bold;
     font-size: 15px;
+    background-color: white !important;
 }
 
 #projectstatus th a:hover {
