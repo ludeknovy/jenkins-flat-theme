@@ -95,8 +95,9 @@ th.pane {
 }
 /* Style project table header links */
 #projectstatus th a {
-    color: #999999;
-    font-weight: normal;
+    color: black;
+    font-weight: bold;
+    font-size: 15px;
 }
 
 #projectstatus th a:hover {
@@ -271,6 +272,21 @@ visibility: hidden;
   background: rgba(197, 197, 197, 0.88) !important;
 }
 
+.tabBar > .tab > a {
+  border: solid 0px !important;
+  color: #585858 !important;
+}
+
+.tabBar > .active > a {
+  border: solid 0px !important;
+  border-bottom: solid 2px #006CFB !important;
+  line-height: normal !important;
+}
+
+.tabBar > .tab > .addTab {
+  border: solid 0px !important;
+  color: #006CFB !important;
+}
 
 /* History icon*/
 .icon-notepad.icon-md {
