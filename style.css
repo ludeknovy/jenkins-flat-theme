@@ -116,7 +116,7 @@ th.pane {
 }
 /* Base styling for project status project table cell, gray background by default to catch all project status states */
 #projectstatus td:first-child {
-    background-color: white!important;
+    background-color: transparent !important;
     margin-top: 5px;
 }
 /* Hide standard Jenkins project status "ball" graphics in project table */
@@ -440,5 +440,9 @@ visibility: hidden;
 }
 
 .icon-blue-anime.icon-lg {
-  content: url("https://cdn.rawgit.com/nvldk/jenkins-flat-theme/master/icons/running_green.png")
+  content: url("https://cdn.rawgit.com/nvldk/jenkins-flat-theme/master/icons/preloader.gif") !important;
 }
+
+.icon-red-anime.icon-lg {
+    content: url("https://cdn.rawgit.com/nvldk/jenkins-flat-theme/master/icons/preloader.gif") !important;
+  }
