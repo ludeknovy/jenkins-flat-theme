@@ -121,12 +121,9 @@ th.pane {
     background-color: #CCCCCC !important;
 }
 /* Hide standard Jenkins project status "ball" graphics in project table */
-#projectstatus td:first-child img {
-    display: none;
-}
 /* Error state (red) styling for project table */
 #projectstatus td:first-child[data="0"] {
-    background-color: #C40022 !important;
+    content: url("https://rawgit.com/nvldk/jenkins-flat-theme/master/icons/cross.png") !important;
 }
 /* Building state (orange stripes) styling for main project table and build process table on left side */
 #projectstatus td:first-child[data="1"],
@@ -140,7 +137,7 @@ table.progress-bar.red td.progress-bar-done{
 }
 /* Success state (green) styling for project table */
 #projectstatus td:first-child[data="4"] {
-    background-color: #06B778 !important;
+    content: url("https://rawgit.com/nvldk/jenkins-flat-theme/master/icons/check.png") !important;
 }
 
 /* Building state (green stripes) styling for main project table and build process table on left side */
