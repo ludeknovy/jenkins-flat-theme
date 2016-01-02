@@ -142,7 +142,7 @@ table.progress-bar.red td.progress-bar-done{
     height: 25px;
 }
 
-#projectstatus td:first-child[data="0"] {
+#projectstatus td:first-child[data="10"] {
     content: url("https://rawgit.com/nvldk/jenkins-flat-theme/master/icons/aborted.png") !important;
     height: 25px;
 }
