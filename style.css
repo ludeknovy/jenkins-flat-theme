@@ -413,6 +413,21 @@ visibility: hidden;
   width: 24px;
 }
 
+.icon-blue.icon-xlg {
+    content: url("https://cdn.rawgit.com/nvldk/jenkins-flat-theme/master/icons/check.png") !important;
+    height: 24px;
+}
+
+.icon-red.icon-xlg {
+    content: url("https://cdn.rawgit.com/nvldk/jenkins-flat-theme/master/icons/cross.png") !important;
+    height: 24px;
+}
+
+.icon-aborted.icon-xlg {
+    content: url("https://cdn.rawgit.com/nvldk/jenkins-flat-theme/master/icons/aborted.png") !important;
+    height: 24px;
+}
+
 /*Search icon*/
 #search-box {
   background: white url(https://cdn.rawgit.com/nvldk/jenkins-flat-theme/master/icons/search.png) no-repeat 2px center !important;
