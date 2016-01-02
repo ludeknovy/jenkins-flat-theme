@@ -396,6 +396,17 @@ visibility: hidden;
     height: 16px;
 }
 
+.icon-terminal.icon-md {
+    content: url("https://cdn.rawgit.com/nvldk/jenkins-flat-theme/master/icons/console_black.png") !important;
+    height: 24px;
+    width: 24px;
+  }
+.icon-previous.icon-md {
+    content: url("https://cdn.rawgit.com/nvldk/jenkins-flat-theme/master/icons/arrowleft.png") !important;
+    height: 24px;
+    width: 24px;
+  }
+
 
 /*Search icon*/
 #search-box {
