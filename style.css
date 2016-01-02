@@ -116,8 +116,6 @@ th.pane {
 }
 /* Base styling for project status project table cell, gray background by default to catch all project status states */
 #projectstatus td:first-child {
-    border-left: 1px solid #E6E6E6;
-    border-right: 1px solid #E6E6E6;
     background-color: white!important;
 }
 /* Hide standard Jenkins project status "ball" graphics in project table */
