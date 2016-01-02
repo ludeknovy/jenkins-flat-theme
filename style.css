@@ -438,13 +438,13 @@ visibility: hidden;
 }
 
 .icon-blue-anime.icon-lg {
-  content: url("https://cdn.rawgit.com/nvldk/jenkins-flat-theme/master/icons/preloader.gif") !important;
+  content: url("https://cdn.rawgit.com/nvldk/jenkins-flat-theme/master/icons/running.png") !important;
   width: 32px;
   height: 32px;
 }
 
 .icon-red-anime.icon-lg {
-    content: url("https://cdn.rawgit.com/nvldk/jenkins-flat-theme/master/icons/preloader.gif") !important;
+    content: url("https://cdn.rawgit.com/nvldk/jenkins-flat-theme/master/icons/running.png") !important;
     width: 32px;
     height: 32px;
   }
