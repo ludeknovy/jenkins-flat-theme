@@ -129,7 +129,6 @@ th.pane {
 #projectstatus td:first-child[data="1"],
 #projectstatus td:first-child[data="3"],
 table.progress-bar.red td.progress-bar-done{
-  display: none !important;
 }
 /* Unstable state (yellow) styling for project table */
 #projectstatus td:first-child[data="2"] {
