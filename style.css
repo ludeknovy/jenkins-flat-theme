@@ -124,7 +124,7 @@ th.pane {
 /* Error state (red) styling for project table */
 #projectstatus td:first-child[data="0"] {
     content: url("https://rawgit.com/nvldk/jenkins-flat-theme/master/icons/cross.png") !important;
-    height: 30px;
+    height: 25px;
 }
 /* Building state (orange stripes) styling for main project table and build process table on left side */
 #projectstatus td:first-child[data="1"],
@@ -139,7 +139,12 @@ table.progress-bar.red td.progress-bar-done{
 /* Success state (green) styling for project table */
 #projectstatus td:first-child[data="4"] {
     content: url("https://rawgit.com/nvldk/jenkins-flat-theme/master/icons/check.png") !important;
-    height: 30px;
+    height: 25px;
+}
+
+#projectstatus td:first-child[data="0"] {
+    content: url("https://rawgit.com/nvldk/jenkins-flat-theme/master/icons/aborted.png") !important;
+    height: 25px;
 }
 
 /* Building state (green stripes) styling for main project table and build process table on left side */
