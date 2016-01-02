@@ -433,9 +433,6 @@ visibility: hidden;
   height: 16px !important;
 }
 
-#main-panel>table>tbody {
-  display: none !important;
-}
 
 .icon-blue-anime.icon-lg {
   content: url("https://cdn.rawgit.com/nvldk/jenkins-flat-theme/master/icons/running.png") !important;
