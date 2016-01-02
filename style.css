@@ -388,12 +388,12 @@ visibility: hidden;
 
 .icon-blue.icon-sm {
     content: url("https://cdn.rawgit.com/nvldk/jenkins-flat-theme/master/icons/check.png") !important;
-    height: 16px;
+    height: 13px;
 }
 
 .icon-red.icon-sm {
     content: url("https://cdn.rawgit.com/nvldk/jenkins-flat-theme/master/icons/check.png") !important;
-    height: 16px;
+    height: 13px;
 }
 
 .icon-terminal.icon-md {
@@ -407,6 +407,11 @@ visibility: hidden;
     width: 24px;
   }
 
+.icon-document.icon-md {
+  content: url("https://cdn.rawgit.com/nvldk/jenkins-flat-theme/master/icons/document.png") !important;
+  height: 24px;
+  width: 24px;
+}
 
 /*Search icon*/
 #search-box {
