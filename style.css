@@ -436,18 +436,18 @@ visibility: hidden;
 
 .icon-blue-anime.icon-lg {
   content: url("https://cdn.rawgit.com/nvldk/jenkins-flat-theme/master/icons/running.png") !important;
-  width: 20px;
-  height: 20px;
+  width: 20px !important;
+  height: 20px !important;
 }
 
 .icon-red-anime.icon-lg {
     content: url("https://cdn.rawgit.com/nvldk/jenkins-flat-theme/master/icons/running.png") !important;
-    width: 20px;
-    height: 20px;
+    width: 20px !important;
+    height: 20px !important;
   }
 
 .icon-aborted-anime.icon-lg  {
     content: url("https://cdn.rawgit.com/nvldk/jenkins-flat-theme/master/icons/running.png") !important;
-    width: 20px;
-    height: 20px;
+    width: 20px !important;
+    height: 20px !important;
   }
