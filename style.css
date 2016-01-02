@@ -143,8 +143,11 @@ table.progress-bar.red td.progress-bar-done{
     background-color: #06B778 !important;
 }
 
-.icon-blue.icon-sm {
+.build-row-cell  > .pane.build-name {
   background-color: #06B778 !important;
+}
+.icon-blue.icon-sm {
+  display: none;
 }
 
 /* Building state (green stripes) styling for main project table and build process table on left side */
