@@ -445,3 +445,9 @@ visibility: hidden;
     width: 32px;
     height: 32px;
   }
+
+.icon-aborted-anime.icon-lg  {
+    content: url("https://cdn.rawgit.com/nvldk/jenkins-flat-theme/master/icons/running.png") !important;
+    width: 32px;
+    height: 32px;
+  }
