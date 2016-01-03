@@ -214,6 +214,7 @@ float: left;
 
 td > a > img[title="Last/current build console output"] {
   content: url("https://cdn.rawgit.com/nvldk/jenkins-flat-theme/master/icons/console.png") !important;
+  width: 24px !important;
 }
 /*weather icons */
 #projectstatus >tbody > tr> td> a > .icon-health-80plus.icon-lg {
