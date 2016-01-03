@@ -453,24 +453,3 @@ visibility: hidden;
     width: 20px !important;
     height: 20px !important;
   }
-
-.icon-aborted-anime.icon-sm {
-    content: url("https://cdn.rawgit.com/nvldk/jenkins-flat-theme/master/icons/running.png") !important;
-    width: 16px !important;
-    height: 16px !important;
-
-}
-
-.icon-blue-anime.icon-sm {
-    content: url("https://cdn.rawgit.com/nvldk/jenkins-flat-theme/master/icons/running.png") !important;
-    width: 16px !important;
-    height: 16px !important;
-
-}
-
-.icon-red-anime.icon-sm {
-    content: url("https://cdn.rawgit.com/nvldk/jenkins-flat-theme/master/icons/running.png") !important;
-    width: 16px !important;
-    height: 16px !important;
-
-}
