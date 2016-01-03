@@ -387,11 +387,6 @@ visibility: hidden;
   content: url("https://cdn.rawgit.com/nvldk/jenkins-flat-theme/master/icons/folder.png") !important;
 }
 
-.icon-blue.icon-sm {
-    content: url("https://cdn.rawgit.com/nvldk/jenkins-flat-theme/master/icons/check.png") !important;
-    height: 13px;
-}
-
 .icon-red.icon-sm {
     content: url("https://cdn.rawgit.com/nvldk/jenkins-flat-theme/master/icons/check.png") !important;
     height: 13px;
@@ -475,12 +470,17 @@ visibility: hidden;
 
   }
 
+.icon-blue.icon-sm {
+    content: url("https://cdn.rawgit.com/nvldk/jenkins-flat-theme/master/icons/check.png") !important;
+    height: 13px !important;
+}
+
 .icon-aborted.icon-sm {
     content: url("https://cdn.rawgit.com/nvldk/jenkins-flat-theme/master/icons/aborted.png") !important;
-    height: 13px;
+    height: 13px !important;
 }
 
 .icon-red.icon-sm {
     content: url("https://cdn.rawgit.com/nvldk/jenkins-flat-theme/master/icons/cross.png") !important;
-    height: 13px;
+    height: 13px !important;
 }
