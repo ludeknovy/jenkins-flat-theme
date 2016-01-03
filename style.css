@@ -456,31 +456,31 @@ visibility: hidden;
 
 .icon-aborted-anime.icon-sm {
     content: url("https://cdn.rawgit.com/nvldk/jenkins-flat-theme/master/icons/running.png") !important;
-    width: 16px !important;
-    height: 16px !important;
+    width: 13px !important;
+    height: 13px !important;
 
   }
 
 .icon-blue-anime.icon-sm {
     content: url("https://cdn.rawgit.com/nvldk/jenkins-flat-theme/master/icons/running.png") !important;
-    width: 16px !important;
-    height: 16px !important;
+    width: 13px !important;
+    height: 13px !important;
 
   }
 
 .icon-red-anime.icon-sm {
     content: url("https://cdn.rawgit.com/nvldk/jenkins-flat-theme/master/icons/running.png") !important;
-    width: 16px !important;
-    height: 16px !important;
+    width: 13px !important;
+    height: 13px !important;
 
   }
 
 .icon-aborted.icon-sm {
     content: url("https://cdn.rawgit.com/nvldk/jenkins-flat-theme/master/icons/aborted.png") !important;
-    height: 16px;
+    height: 13px;
 }
 
 .icon-red.icon-sm {
     content: url("https://cdn.rawgit.com/nvldk/jenkins-flat-theme/master/icons/cross.png") !important;
-    height: 16px;
+    height: 13px;
 }
