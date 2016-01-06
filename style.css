@@ -488,3 +488,7 @@ visibility: hidden;
     height: 13px !important;
     width: 13px !important;
 }
+
+.icon-nobuilt.icon-lg {
+    content: url("https://cdn.rawgit.com/nvldk/jenkins-flat-theme/master/icons/abort.png") !important;
+}
