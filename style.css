@@ -489,6 +489,12 @@ visibility: hidden;
     width: 13px !important;
 }
 
+.icon-credentials-credentials.icon-xlg {
+	content: url("https://cdn.rawgit.com/nvldk/jenkins-flat-theme/master/icons/credentials.png") !important;
+	height: 24px !important;
+	width: 24px !important;
+}
+
 .icon-nobuilt.icon-lg {
     content: url("https://cdn.rawgit.com/nvldk/jenkins-flat-theme/master/icons/abort.png") !important;
 }
