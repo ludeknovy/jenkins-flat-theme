@@ -497,4 +497,5 @@ visibility: hidden;
 
 .icon-nobuilt.icon-lg {
     content: url("https://cdn.rawgit.com/nvldk/jenkins-flat-theme/master/icons/aborted.png") !important;
+    height: 24px !important;
 }
